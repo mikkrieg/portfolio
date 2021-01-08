@@ -1,3 +1,4 @@
+/* Element Styling */
 body {
   background-color: #edede6;
 }
@@ -33,6 +34,7 @@ footer {
   margin: 20px auto;
 }
 
+/* Class styling */
 .decor {
   border-bottom: 3px solid #000;
   width: 20%;
@@ -62,6 +64,7 @@ footer {
   text-align: center;
 }
 
+/* ID styling */
 #bottom-p {
   margin-bottom: 50px;
 }
