@@ -30,3 +30,18 @@ img {
 .card {
   margin-bottom: 10px;
 }
+
+.column {
+  float: left;
+  width: 20%;
+  margin-left: 135px;
+}
+
+.about-me {
+  margin-bottom: 225px;
+}
+
+#about-me-description {
+  font-size: 1.2em;
+}
+
