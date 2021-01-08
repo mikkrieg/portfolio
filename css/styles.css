@@ -87,3 +87,24 @@ footer {
   margin: 40px auto;
 }
 
+/* Menu styling */
+
+#menu {
+  margin-left: 100px;
+  overflow: hidden;
+  background-color: #e6e6dc;
+  padding: 50px;
+  position: fixed;
+}
+
+#menu a {
+  float: left;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  padding: 10px;
+}
+
+
+
+
