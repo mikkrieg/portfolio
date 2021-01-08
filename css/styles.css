@@ -1,11 +1,15 @@
 /* Element Styling */
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background-color: #edede6;
 }
 
 h1 {
   text-align: center;
-  margin: 15px 0 50px 0;
+  margin: 25px 0 50px 0;
   font-size: 3em;
 }
 
@@ -94,6 +98,7 @@ footer {
   background-color: #e6e6dc;
   width: 12%;
   padding: 30px;
+  margin-top: 10px;
   position: fixed;
 }
 
