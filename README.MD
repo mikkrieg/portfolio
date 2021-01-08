@@ -1,4 +1,4 @@
-# _portfolio site_
+# _Portfolio site_
 
 #### _A portfolio site for Michael Kriegel_
 
@@ -17,7 +17,7 @@ _This is a portfolio site that was constructed for my Week 1 project at Epicodus
 
 * _Clone this repository to your machine_
 * _Navigate to the top level directory_
-* _Open index.html in you browser_
+* _Open index.html in your browser_
 
 ## Known Bugs
 
@@ -29,8 +29,8 @@ _This is a portfolio site that was constructed for my Week 1 project at Epicodus
 
 Copyright(c) 2021 Michael Kriegel
 
-## Contact Information & Github pages link
+## Contact Information & Github Pages Link
 
-[Githubpages]()
+[Github Pages]()
 
 Michael Kriegel: mikkrieg@gmail.com

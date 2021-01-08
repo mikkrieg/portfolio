@@ -23,7 +23,6 @@ li {
   font-size: 1.1em;
 }
 
-
 img {
   width: 55%;
   border-radius: 50%;
@@ -37,6 +36,7 @@ p {
 
 footer {
   margin: 20px auto;
+  text-align: center;
 }
 
 /* Class styling */
@@ -91,7 +91,6 @@ footer {
 
 #menu {
   margin-left: 100px;
-  overflow: hidden;
   background-color: #e6e6dc;
   padding: 50px;
   position: fixed;
@@ -103,7 +102,12 @@ footer {
   text-align: center;
   text-decoration: none;
   padding: 10px;
+  width: 100%;
+  margin-top: 10px; 
+  box-sizing: border-box;
+  background-color: #d9d9ce;
 }
+
 
 
 
