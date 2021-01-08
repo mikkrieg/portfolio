@@ -13,6 +13,11 @@ h2 {
   text-align: center;
 }
 
+
+li {
+  font-size: 1.1em;
+}
+
 img {
   width: 55%;
   border-radius: 50%;
@@ -20,11 +25,25 @@ img {
   margin: auto;
 }
 
+p {
+  font-size: 1.1em;
+}
+
+footer {
+  margin: 20px auto;
+}
+
 .decor {
   border-bottom: 3px solid #000;
-  width: 15%;
+  width: 20%;
   margin: auto;
   margin-bottom: 30px;
+}
+
+.about-decor {
+  border-bottom: 3px solid #000;
+  width: 2%;
+  margin: 30px auto;
 }
 
 .card {
@@ -34,14 +53,22 @@ img {
 .column {
   float: left;
   width: 20%;
-  margin-left: 135px;
+  margin-left: 136px;
 }
 
-.about-me {
-  margin-bottom: 225px;
+.about-p {
+  width: 60%;
+  margin: auto;
+  text-align: center;
+}
+
+#bottom-p {
+  margin-bottom: 50px;
 }
 
 #about-me-description {
-  font-size: 1.2em;
+  width: 90%;
+  text-align: center;
+  margin: 40px auto;
 }
 
