@@ -4,9 +4,12 @@ body {
 
 h1 {
   text-align: center;
+  margin-bottom: 50px;
+  font-size: 3em;
 }
 
 h2 {
+  margin: 30px 0 20px 0;
   text-align: center;
 }
 
@@ -15,4 +18,11 @@ img {
   border-radius: 50%;
   display: block;
   margin: auto;
+}
+
+.decor {
+  border-bottom: 3px solid #000;
+  width: 15%;
+  margin: auto;
+  margin-bottom: 30px;
 }
