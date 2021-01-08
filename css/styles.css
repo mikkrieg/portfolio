@@ -4,7 +4,7 @@ body {
 
 h1 {
   text-align: center;
-  margin-bottom: 50px;
+  margin: 15px 0 50px 0;
   font-size: 3em;
 }
 
@@ -14,7 +14,7 @@ h2 {
 }
 
 img {
-  width: 50%;
+  width: 55%;
   border-radius: 50%;
   display: block;
   margin: auto;
@@ -25,4 +25,8 @@ img {
   width: 15%;
   margin: auto;
   margin-bottom: 30px;
+}
+
+.card {
+  margin-bottom: 10px;
 }
