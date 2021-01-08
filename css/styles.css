@@ -56,6 +56,9 @@ footer {
   float: left;
   width: 20%;
   margin-left: 136px;
+  padding-left: 25px;
+  border: 5px dotted #000;
+  box-sizing: border-box;
 }
 
 .about-p {
