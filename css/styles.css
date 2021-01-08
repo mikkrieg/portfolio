@@ -92,17 +92,18 @@ footer {
 #menu {
   margin-left: 100px;
   background-color: #e6e6dc;
-  padding: 50px;
+  width: 12%;
+  padding: 30px;
   position: fixed;
 }
 
 #menu a {
-  float: left;
   display: block;
   text-align: center;
   text-decoration: none;
   padding: 10px;
   width: 100%;
+  margin: auto;
   margin-top: 10px; 
   box-sizing: border-box;
   background-color: #d9d9ce;
