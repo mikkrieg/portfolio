@@ -14,10 +14,15 @@ h2 {
   text-align: center;
 }
 
+h3 {
+  text-align: center;
+  margin-right: 30px;
+}
 
 li {
   font-size: 1.1em;
 }
+
 
 img {
   width: 55%;
@@ -55,9 +60,9 @@ footer {
 .column {
   float: left;
   width: 20%;
-  margin-left: 136px;
+  margin-left: 111px;
   padding-left: 25px;
-  border: 5px dotted #000;
+  border: 5px dashed #000;
   box-sizing: border-box;
 }
 
@@ -65,6 +70,10 @@ footer {
   width: 60%;
   margin: auto;
   text-align: center;
+}
+
+.inline-style {
+  font-style: italic;
 }
 
 /* ID styling */
