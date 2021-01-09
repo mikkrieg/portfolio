@@ -21,7 +21,7 @@ _This is a portfolio site that was constructed for my Week 1 project at Epicodus
 
 ## Known Bugs
 
-* _No known bugs_
+* _On smaller screens menu is blocked by content and is difficult to select_
 
 ## License
 
