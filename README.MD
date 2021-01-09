@@ -31,6 +31,6 @@ Copyright(c) 2021 Michael Kriegel
 
 ## Contact Information & Github Pages Link
 
-[Github Pages]()
+[Github Pages](https://mikkrieg.github.io/portfolio/)
 
 Michael Kriegel: mikkrieg@gmail.com
