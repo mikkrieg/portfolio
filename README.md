@@ -33,8 +33,6 @@ _This is a portfolio site that was constructed for my Week 1 project at Epicodus
 
 Copyright(c) 2021 Michael Kriegel
 
-## Contact Information & Github Pages Link
-
-[Github Pages](https://mikkrieg.github.io/portfolio/)
+## Contact Information
 
 Michael Kriegel: mikkrieg@gmail.com
