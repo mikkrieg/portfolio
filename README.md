@@ -15,9 +15,13 @@ _This is a portfolio site that was constructed for my Week 1 project at Epicodus
 
 ## Setup/Installation Requirements
 
+### Local Machine
 * _Clone this repository to your machine_
 * _Navigate to the top level directory_
 * _Open index.html in your browser_
+
+### Web Version
+* [Github Pages](https://mikkrieg.github.io/portfolio/)
 
 ## Known Bugs
 
